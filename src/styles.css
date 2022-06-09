@@ -1,0 +1,36 @@
+.App{
+    text-align: center;
+    font-family: Arial;
+}
+
+/* The answer selecteed by the user */
+.selected {
+    background-color: orange;
+}
+
+/* The list of options */
+.options {
+    padding: 8px;
+    border: 3px solid rgb(170,219,56);
+    cursor: pointer;
+    width: 100%;
+    color: #fff;
+    font-weight: 300;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+body{
+    font-family: Verdana;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    font-family: 'sagoe ui, sans-serif';
+    font-size: 18px;
+    background-color: teal;
+}
